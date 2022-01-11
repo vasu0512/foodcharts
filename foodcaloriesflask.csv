@@ -1,0 +1,12 @@
+,id,email_id,date,food_name,calories,quantity,meal_type
+0,6,abcxyz@gmail.com,2021-04-09,Vada,97,1,Dinner
+1,7,abcxyz@gmail.com,2021-04-09,Rasam,59,1,Dinner
+2,8,abcxyz@gmail.com,2021-04-09,Uttapam,92,1,Dinner
+3,9,abcxyz@gmail.com,2021-04-09,Banana chips,374,1,Lunch
+4,10,abcxyz@gmail.com,2021-04-12,Chicken and Cheese Salad,194,1,Lunch
+5,11,abcxyz@gmail.com,2021-04-12,Quick noodles,390,1,Lunch
+6,12,abcxyz@gmail.com,2021-04-12,Dosa,133,1,Breakfast
+7,13,abcxyz@gmail.com,2021-04-12,Spring Rolls,110,1,Snacks
+8,14,abcxyz@gmail.com,2021-04-12,Gulab Jamun,300,1,Dessert
+9,15,abcxyz@gmail.com,2021-04-12,Stuffed Cucumber ,179,1,Lunch
+10,16,abcxyz@gmail.com,2021-04-12,Dosa,133,1,Dinner
